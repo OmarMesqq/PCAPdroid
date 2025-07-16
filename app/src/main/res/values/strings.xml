@@ -18,7 +18,6 @@
     <string name="opensource_licenses" translatable="false"><b>Open Source Licenses:</b><br />\n\n
         - zdtun: <a href='https://github.com/emanuele-f/zdtun/blob/master/COPYING'>LGPL-3.0</a>\n\n
         - nDPI: <a href='https://github.com/ntop/nDPI/blob/dev/COPYING'>LGPL-3.0</a>\n\n
-        - CustomActivityOnCrash: <a href='https://github.com/Ereza/CustomActivityOnCrash/blob/master/LICENSE'>Apache-2.0</a>\n\n
         - Gson: <a href='https://github.com/google/gson/blob/master/LICENSE'>Apache-2.0</a>\n\n
         - Brotli decoder: <a href='https://github.com/google/brotli/blob/master/LICENSE'>MIT</a>\n\n
         - mitmproxy: <a href='https://github.com/mitmproxy/mitmproxy/blob/main/LICENSE'>MIT</a>\n\n
