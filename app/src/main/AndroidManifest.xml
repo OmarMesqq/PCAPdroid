@@ -139,15 +139,6 @@
         </service>
 
         <receiver android:name="com.emanuelef.remote_capture.ActionReceiver" />
-
-        <receiver
-            android:name=".BootReceiver"
-            android:exported="false">
-            <intent-filter>
-                <action android:name="android.intent.action.BOOT_COMPLETED"/>
-                <action android:name="android.intent.action.QUICKBOOT_POWERON"/>
-            </intent-filter>
-        </receiver>
     </application>
 
 </manifest>
