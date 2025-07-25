@@ -178,8 +178,6 @@
     <string name="country">الدولة</string>
     <string name="url_val">الرابط: %1$s</string>
     <string name="hint">تَلمِيح</string>
-    <string name="start_at_boot">ابدأ عند التمهيد</string>
-    <string name="start_at_boot_summary">يبدأ الالتقاط تلقائيًا بعد التمهيد</string>
     <string name="once">مرة واحِدة</string>
     <string name="forever">‎للأبد</string>
     <string name="control_permissions_summary">تحقق من التطبيقات المسموح لها بالتحكم في التقاط PCAPdroid</string>

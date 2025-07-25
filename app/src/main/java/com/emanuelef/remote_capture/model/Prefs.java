@@ -82,7 +82,7 @@ public class Prefs {
     public static final String PREF_FIREWALL_WHITELIST_INIT_VER = "firewall_wl_init";
     public static final String PREF_FIREWALL_WHITELIST = "firewall_whitelist";
     public static final String PREF_DECRYPTION_LIST = "decryption_list";
-    public static final String PREF_START_AT_BOOT = "start_at_boot";
+
     public static final String PREF_SNAPLEN = "snaplen";
     public static final String PREF_MAX_PKTS_PER_FLOW = "max_pkts_per_flow";
     public static final String PREF_MAX_DUMP_SIZE = "max_dump_size";
@@ -224,7 +224,7 @@ public class Prefs {
         return(Billing.newInstance(ctx).isPurchased(Billing.PCAPNG_SKU)
                 && p.getBoolean(PREF_PCAPNG_ENABLED, true));
     }
-    public static boolean startAtBoot(SharedPreferences p)        { return(p.getBoolean(PREF_START_AT_BOOT, false)); }
+
     public static boolean restartOnDisconnect(SharedPreferences p)        { return(p.getBoolean(PREF_RESTART_ON_DISCONNECT, false)); }
     public static boolean isTLSDecryptionSetupDone(SharedPreferences p)     { return(p.getBoolean(PREF_TLS_DECRYPTION_SETUP_DONE, false)); }
     public static boolean getFullPayloadMode(SharedPreferences p) { return(p.getBoolean(PREF_FULL_PAYLOAD, false)); }
@@ -286,7 +286,6 @@ public class Prefs {
                 "\nBlockNewApps: " + blockNewApps(p) +
                 "\nTargetApps: " + getAppFilter(p) +
                 "\nIpMode: " + getIPMode(p) +
-                "\nDumpExtensions: " + isPcapdroidMetadataEnabled(p) +
-                "\nStartAtBoot: " + startAtBoot(p);
+                "\nDumpExtensions: " + isPcapdroidMetadataEnabled(p);
     }
 }

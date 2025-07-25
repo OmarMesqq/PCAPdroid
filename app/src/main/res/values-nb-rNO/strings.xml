@@ -91,7 +91,6 @@
     <string name="forever">Alltid</string>
     <string name="country_val">Land: %1$s</string>
     <string name="send_report">Send rapport</string>
-    <string name="start_at_boot">Start sammen med enheten</string>
     <string name="whitelist">Hvitliste</string>
     <string name="blacklist_type_domain">Domene-svarteliste</string>
     <string name="domain_rules">Domeneregler</string>
@@ -204,7 +203,6 @@
     <string name="capture_interface">Fangstgrensesnitt</string>
     <string name="no_dump_info">PCAP vil ikke bli registrert</string>
     <string name="malware_whitelist_help">Brukerdefinert hvitliste for å unngå skadevareoppdatelse. Lang-trykk på ondsinnede tilkoblinger for å opprette regler som avmarkerer dem som skadevare</string>
-    <string name="start_at_boot_summary">Starter fangst sammen med enheten</string>
     <string name="app_intro_back_button">Tilbake</string>
     <string name="firewall_filter">Brannmur: %1$s</string>
     <string name="connection_not_found">Fant ikke angitt tilkobling</string>

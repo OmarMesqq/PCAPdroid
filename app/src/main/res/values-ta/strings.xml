@@ -171,8 +171,6 @@
     <string name="asn">ASN</string>
     <string name="country_val">நாடு: %1$s</string>
     <string name="send_report">அறிக்கை அனுப்பவும்</string>
-    <string name="start_at_boot">துவக்கத்தில் தொடங்கவும்</string>
-    <string name="start_at_boot_summary">துவக்கத்திற்குப் பிறகு ஆட்டோ-ச்டார்ட்ச் பிடிப்பு</string>
     <string name="malware_status_ok">தீங்கிழைக்கும் போக்குவரத்து எதுவும் கண்டறியப்படவில்லை</string>
     <string name="malware_status_detected">தீங்கிழைக்கும் இணைப்புகள் கண்டறியப்பட்டன</string>
     <string name="whitelist">அனுமதிப்பட்டியலாளர்</string>

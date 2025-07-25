@@ -128,7 +128,6 @@
     <string name="malware_detection_summary">써드파티 블랙리스트를 통해 알려진 악성 호스트로의 커넥션을 감지합니다</string>
     <string name="malware_whitelist_rules">멀웨어 화이트리스트 규칙</string>
     <string name="malware_whitelist_help">멀웨어 탐지를 제외하는 사용자 지정 화이트리스트입니다. 악성 연결을 길게 눌러 악성 연결로 표시하는 것을 해제하는 규칙을 만듭니다</string>
-    <string name="start_at_boot_summary">부팅후 자동으로 캡처를 시작합니다</string>
     <string name="status_filter">상태: %1$s</string>
     <string name="not_hidden_filter">숨기지 않음</string>
     <string name="show_me">표시하기</string>
@@ -145,7 +144,6 @@
     <string name="firewall_rules">방화벽 규칙</string>
     <string name="country">국가</string>
     <string name="send_report">보고서 전송</string>
-    <string name="start_at_boot">부팅시 시작하기</string>
     <string name="blacklists">블랙리스트</string>
     <string name="blacklist_type_domain">도메인 블랙리스트</string>
     <string name="connections_checked">커넥션 확인됨</string>

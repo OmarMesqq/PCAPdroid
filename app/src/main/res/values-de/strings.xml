@@ -156,7 +156,6 @@
     <string name="asn">ASN</string>
     <string name="country_val">Land: %1$s</string>
     <string name="send_report">Bericht senden</string>
-    <string name="start_at_boot">Beim Booten starten</string>
     <string name="malware_status_ok">Kein schädlicher Datenverkehr erkannt</string>
     <string name="malware_status_detected">Keine schädlichen Verbindungen erkannt</string>
     <string name="status_uptodate">Auf dem neusten Stand</string>
@@ -165,7 +164,6 @@
     <string name="malicious_connections">Bösartige Verbindungen</string>
     <string name="last_update_val">Letzte Aktualisierung: %1$s</string>
     <string name="control_permissions_summary">Überprüfe, welche Apps die PCAPdroid-Aufnahme steuern dürfen</string>
-    <string name="start_at_boot_summary">Aufnahme nach dem Booten automatisch starten</string>
     <string name="blacklists">Sperrlisten</string>
     <string name="blacklist_type_ip">IP-Sperrliste</string>
     <string name="blacklist_type_domain">Domain-Sperrliste</string>

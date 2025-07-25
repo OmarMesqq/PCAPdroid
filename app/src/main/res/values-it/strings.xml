@@ -144,7 +144,6 @@
     <string name="asn">ASN</string>
     <string name="country_val">Nazione: %1$s</string>
     <string name="send_report">Invia report</string>
-    <string name="start_at_boot">Cattura all\'avvio</string>
     <string name="malware_status_ok">Nessun traffico malevolo rilevato</string>
     <string name="malware_status_detected">Connessioni malevole rilevate</string>
     <string name="whitelist">Whitelist</string>
@@ -200,7 +199,6 @@
     <string name="save_ok">Salvato</string>
     <string name="hidden_connections_help">Lista di regole per nascondere elementi dalla lista connessioni, mettendo in risalto solo connessioni rilevanti</string>
     <string name="file_saved_with_name">File salvato come \"%1$s\"</string>
-    <string name="start_at_boot_summary">Avvia la cattura in automatico all\'avvio del dispositivo</string>
     <string name="malware_whitelist_help">Whitelist definita dall\'utente per inibire il rilevamento di malware. Tieni premuto su una connessione malevola per creare una regola</string>
     <string name="enable_socks5_proxy_summary">Redirigi tutte le connessioni TCP verso un proxy SOCKS5</string>
     <string name="decryption_no_filter_warn">Quando la decrittazione TLS è abilitata, è necessario selezionare un filtro app per evitare di perdere la connessione a Internet</string>

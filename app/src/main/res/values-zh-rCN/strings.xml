@@ -151,7 +151,6 @@
     <string name="asn">ASN</string>
     <string name="country_val">国家： %1$s</string>
     <string name="send_report">发送报告</string>
-    <string name="start_at_boot">开机启动</string>
     <string name="malware_status_ok">未检测到恶意流量</string>
     <string name="malware_status_detected">检测到恶意连接</string>
     <string name="whitelist">白名单</string>
@@ -195,7 +194,6 @@
     <string name="billing_failure">未能连接到 Google Play，请稍后再试</string>
     <string name="learn_more">了解更多</string>
     <string name="buy_action">购买</string>
-    <string name="start_at_boot_summary">开机后自动开始流量捕获</string>
     <string name="capture_not_running_status">流量捕获未在运行</string>
     <string name="start_capture_first">先开始流量捕获</string>
     <string name="copied">已复制</string>

@@ -349,8 +349,6 @@
     <string name="control_permissions_item">%1$s: %2$s</string>
     <string name="country">Країна</string>
     <string name="send_report">Надіслати звіт</string>
-    <string name="start_at_boot">Запускати при завантаженні</string>
-    <string name="start_at_boot_summary">Авто починати захоплення після завантаження</string>
     <string name="malware_status_ok">Не виявлено зловмисного трафіку</string>
     <string name="status_outdated">Застаріле</string>
     <string name="status_not_loaded">Не завантажено</string>

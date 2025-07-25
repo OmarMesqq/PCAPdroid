@@ -144,7 +144,6 @@
     <string name="asn">ASN</string>
     <string name="country_val">País: %1$s</string>
     <string name="send_report">Enviar reporte</string>
-    <string name="start_at_boot">Iniciar al arrancar</string>
     <string name="malware_status_ok">No se ha detectado tráfico malicioso</string>
     <string name="malware_status_detected">Conexiones maliciosas detectadas</string>
     <string name="whitelist">Lista blanca</string>
@@ -199,7 +198,6 @@
     <string name="purchased">Comprado</string>
     <string name="learn_more">Más información</string>
     <string name="malware_whitelist_help">Lista blanca definida por el usuario para inhibir la detección de malware. Mantener presionadas las conexiones maliciosas para crear reglas que las desmarquen como malware</string>
-    <string name="start_at_boot_summary">Iniciar captura automáticamente después de arrancar</string>
     <string name="start_capture_first">Iniciar la captura primero</string>
     <string name="open_nav_drawer">Abrir cajón de navegación</string>
     <string name="close_nav_drawer">Cerrar cajón de navegación</string>

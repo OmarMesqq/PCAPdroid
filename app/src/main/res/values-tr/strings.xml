@@ -108,8 +108,6 @@
     <string name="asn">ASN</string>
     <string name="country_val">Ülke: %1$s</string>
     <string name="send_report">Rapor gönder</string>
-    <string name="start_at_boot">Önyüklemede başla</string>
-    <string name="start_at_boot_summary">Önyüklemeden sonra yakalamayı otomatik başlatır</string>
     <string name="malware_status_ok">Kötü amaçlı trafik algılanmadı</string>
     <string name="malware_status_detected">Kötü amaçlı bağlantılar algılandı</string>
     <string name="status_outdated">Güncel değil</string>

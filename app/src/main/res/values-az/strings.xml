@@ -242,7 +242,6 @@
     <string name="control_permissions_item">%1$s: %2$s</string>
     <string name="country_val">Ölkə: %1$s</string>
     <string name="send_report">Hesabat göndər</string>
-    <string name="start_at_boot">Sistem yüklənəndə (boot) başla</string>
     <string name="malware_status_ok">Zərəli fayl, proqram trafiki aşkarlanmadı</string>
     <string name="malware_status_detected">Zərərli bağlantılar aşkarlandı</string>
     <string name="whitelist">Ağ siyahı</string>
@@ -401,7 +400,6 @@
     <string name="malicious_connection_filter">Zərərli fayl, proqram</string>
     <string name="url_val">URL: %1$s</string>
     <string name="copy_action">Nüsxələ…</string>
-    <string name="start_at_boot_summary">Sistem yüklənəndən (boot) sonra izləməni avtomatik başlat</string>
     <string name="control_permissions_summary">Hansı tətbiqlərin PCAPdrod-in izləməsini kontrol etməyə icazəsi olduğunu yoxlayın</string>
     <string name="country">Ölkə</string>
     <string name="blacklist_type_ip">İP qara siyahı</string>

@@ -143,7 +143,6 @@
     <string name="asn">ASN</string>
     <string name="country_val">Страна: %1$s</string>
     <string name="send_report">Отправить отчет</string>
-    <string name="start_at_boot">Захват после загрузки устройства</string>
     <string name="malware_status_ok">Вредоносного трафика не обнаружено</string>
     <string name="malware_status_detected">Вредоносный траффик обнаружен</string>
     <string name="whitelist">Белый список</string>
@@ -197,7 +196,6 @@
     <string name="open_nav_drawer">Открыть боковое меню</string>
     <string name="close_nav_drawer">Закрыть боковое меню</string>
     <string name="root_capture_summary">Позволяет PCAPdroid работать вместе с другими VPN приложениями</string>
-    <string name="start_at_boot_summary">Автозапуск захвата после загрузки</string>
     <string name="can_use_purchased_feature">Теперь вы можете пользоваться приобретенными возможностями</string>
     <string name="capture_all_apps">Захватывать траффик всех приложений</string>
     <string name="hidden_connections_help">Список правил для скрытия элементов из списка соединений, чтобы сфокусироваться только на нужном</string>
